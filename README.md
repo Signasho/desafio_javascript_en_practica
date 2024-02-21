@@ -1,4 +1,4 @@
-Challenge evaluated by: javascript events in practice
+Challenge evaluated: javascript events in practice
 
 ![image](https://github.com/Signasho/desafio_javascript_en_practica/assets/156260562/b9a0595a-8489-494f-9494-87141f201add)
 
