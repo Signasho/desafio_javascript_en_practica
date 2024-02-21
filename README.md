@@ -8,7 +8,6 @@ Challenge evaluated by: javascript events in practice
 
 
 
-if you wanna try this excersices live, go to => 
 
 
 
